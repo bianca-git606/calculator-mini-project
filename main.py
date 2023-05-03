@@ -15,7 +15,7 @@
 
 
 def add (a, b): 
-    pass # replace this code 
+    return a + b # replace this code
 
 def subtract (a, b): 
     pass # replace this code
@@ -31,4 +31,3 @@ def divide (a, b):
 
 def modulo (a, b): 
     pass # replace this code
-

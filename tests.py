@@ -4,7 +4,7 @@ from main import add, subtract, divide, multiply, modulo
 class TestCalculator(TestCase):
     
     def test_add(self):
-        pass # replace this code
+        self.assertEqual(add(5, 5), 10) # replace this code
 
     def test_subtract(self):
         pass # replace this code

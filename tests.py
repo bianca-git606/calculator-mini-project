@@ -7,7 +7,7 @@ class TestCalculator(TestCase):
         self.assertEqual(add(5, 5), 10) # replace this code
 
     def test_subtract(self):
-        pass # replace this code
+        self.assertEqual(subtract(12,6), 6) # replace this code
 
     def test_division(self):
         self.assertEqual(divide(10, 2), 5)

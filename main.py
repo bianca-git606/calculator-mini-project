@@ -18,7 +18,7 @@ def add (a, b):
     return a + b # replace this code
 
 def subtract (a, b): 
-    pass # replace this code
+    return a - b
 
 def multiply (a, b): 
     pass # replace this code

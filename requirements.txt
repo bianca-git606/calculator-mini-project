@@ -1,0 +1,4 @@
+nose
+pinocchio
+coverage
+pylint

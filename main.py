@@ -21,7 +21,7 @@ def subtract (a, b):
     return a - b
 
 def multiply (a, b): 
-    pass # replace this code
+    return a * b # replaced this code by yours truly ken2ut
 
 def divide (a, b): 
     # a sample code
@@ -30,4 +30,4 @@ def divide (a, b):
     return a / b
 
 def modulo (a, b): 
-    pass # replace this code
+    pass # replace this code 

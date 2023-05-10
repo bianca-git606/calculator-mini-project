@@ -7,7 +7,7 @@
 
 
 def add (a, b): 
-    return a + b # replace this code
+    return a + b # jie <3
 
 def subtract (a, b): 
     return a - b
@@ -22,4 +22,4 @@ def divide (a, b):
     return a / b
 
 def modulo (a, b): 
-    pass # replace this code 
+    return a % b # jie <3

@@ -17,4 +17,4 @@ class TestCalculator(TestCase):
         self.assertEqual(multiply(4,3), 12) # replaced this code by yours truly ken2ut
 
     def test_modulo(self):
-        pass # replace this code
+        self.assertEqual(modulo(13,6), 1) # replace this code

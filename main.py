@@ -1,12 +1,4 @@
-# Hello guys !! welcome to our first mini project,, <333 -bianca
-
-# you can choose any function you'd like to code
-# refer to the divide function for a sample code
-# dont worry we will add more code later on when we start with unit tests
-# (e.g. if statements in case the inputs are not a number etc.)
-
-# after this, we will write unit tests for each function that we coded
-# in order to do that, please run this command on the terminal:
+# please run this command on the terminal:
 # pip install -r requirements.txt
 
 # then run this:
